@@ -1,3 +1,4 @@
+Teste pull
 <?php $this->load->view('elements/header'); ?>
 <div class="wrapper ">
     <?php $this->load->view('elements/sidebar_lateral'); ?>
